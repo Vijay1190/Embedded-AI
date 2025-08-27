@@ -1,0 +1,9 @@
+../Core/Src/main.c:84:7:relu	2
+../Core/Src/main.c:88:6:softmax	5
+../Core/Src/main.c:120:6:neural_network_inference	5
+../Core/Src/main.c:146:5:main	3
+../Core/Src/main.c:221:6:SystemClock_Config	3
+../Core/Src/main.c:268:13:MX_SPI1_Init	2
+../Core/Src/main.c:306:13:MX_GPIO_Init	1
+../Core/Src/main.c:354:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:371:6:Error_Handler	1
