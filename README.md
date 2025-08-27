@@ -26,7 +26,7 @@ This stage validated the feasibility of **on-device deep learning** on Cortex-M 
 **Topic**: Edge AI for insect sound recognition using **bioacoustic signatures**  
 
 ### 🎯 Objective  
-Build a **real-time 2D CNN** pipeline for detecting and classifying insect species (e.g., mosquito, bee, cricket) from **acoustic spectrograms**.  
+Build a **real-time 2D CNN** pipeline for detecting and classifying insect species from **acoustic spectrograms**.  
 
 ### 🔧 Setup
 - **Platform**: STM32F769I (Cortex-M7 @ 216 MHz, more compute power & memory)  
